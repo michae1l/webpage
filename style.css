@@ -1,0 +1,12 @@
+.hd{
+    color: blue;
+    background-color: antiquewhite;
+    text-align: center;
+    height: 200px;
+    padding-top: 80px;
+    font-size: 100px;
+    border-bottom: 5px solid black;
+     border-top: 5px dashed black;
+      border-left: 5px dashed black;
+       border-right: 5px dashed black;
+}
